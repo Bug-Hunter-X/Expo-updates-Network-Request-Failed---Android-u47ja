@@ -1,0 +1,1 @@
+While building an Expo app, I encountered an error related to the expo-updates package.  The error message was vague and unhelpful, stating something like "Network request failed". I tried several solutions, including checking my network connection, clearing the cache, and reinstalling the app, but none worked. The issue only manifested on Android devices.
